@@ -6,9 +6,9 @@ GUI that helps my digital agriculture team plan, map and visualize the paths our
 • MVC framework   
 • Page design and crosss-functionality  
 
-## Setup and In-depth Description  
+# Setup and In-depth Description    
 
-# ewb-gui
+## ewb-gui  
 
 Engineer's Without Borders Digital Agriculture Subteam GUI design experimentation for rover and drone control application
 
