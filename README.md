@@ -4,7 +4,7 @@ GUI that helps my digital agriculture team plan, map and visualize the paths our
 # What I learned 
 • UI Kivy library for Python  
 • MVC framework   
-• Page design and crosss-functionality  
+• Page design and cross-functionality  
 
 # Setup and In-depth Description    
 
