@@ -1,5 +1,5 @@
 # EWB-GUI
-GUI that helps my digital agriculture team plan, map and visualize the paths our ground unit (rover) will follow 
+I am part of the Digital Agriculture subteam on campus -- a team within Cornell University's "Engineers Without Borders" Project Team. Our current project is centered around leveraging Computer Vision to identify and combat Northern Leaf Blight (NLB) disease in maize crop. This GUI helps my team plan, map and visualize the paths our ground unit (rover) will follow in farm fields while assessing various maize crop. 
 
 # What I learned 
 • UI Kivy library for Python  
